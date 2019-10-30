@@ -1,0 +1,48 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{ background: #f1f1f1; }
+
+.footertxt{
+			color: #afafaf;
+	text-align: center;
+
+}
+
+.abouttit{
+			color: #afafaf;
+          
+		}
+
+.aboutdis{
+			color: #afafaf;}			
+
+
+.d1{color:#afafaf;}	
+
+.k1{
+	color: #afafaf;
+}		
+
+.lpimg{
+
+	height: auto;
+	width: auto;
+}
+
+
+.ftr{
+	background-color: #151515;
+	width: 100%!important
+}
+
+.catimgsize{
+
+
+	height: auto;!important;
+	width: auto;!important;
+}
+
+.hov:hover{
+	box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.55);
+}
+
